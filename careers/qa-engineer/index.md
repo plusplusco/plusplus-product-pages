@@ -45,13 +45,13 @@ Skills and Qualifications
 * Hands-on experience with both white box and black box testing
 * Hands-on experience with automated testing tools
 * Experience working in an Agile/Scrum development process
-* Prior experience in SaaS environments
 * BS/MS degree in Computer Science, Engineering, or a related subject
 
 Preferred Qualifications
 -------------------------
 * Working knowledge of SQL, scripting, REST, and GraphQL
 * Experience with performance and security testing
+* Prior experience in SaaS environments
 
 ---
 
