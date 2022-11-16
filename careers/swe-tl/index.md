@@ -55,4 +55,4 @@ Preferred Qualifications
 
 ---
 
-To apply, drop us a line at product-careers+swe-tl@plusplus.co. We are looking forward to hearing from you.
+To apply, [drop us a line](mailto:product-careers+swe-tl@plusplus.co). We are looking forward to hearing from you.

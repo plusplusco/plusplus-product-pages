@@ -1,2 +1,6 @@
-# PlusPlus Product
+PlusPlus
+========
 
+Product
+-------
+* [Careers](careers/)
