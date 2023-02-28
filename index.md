@@ -1,6 +1,4 @@
-PlusPlus
-========
+PlusPlus Product
+================
 
-Product
--------
-* [Careers](careers/)
+[Careers](careers/)
