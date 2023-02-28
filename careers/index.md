@@ -1,6 +1,6 @@
 Product Careers
 ===============
 
-* [Software Engineer, Technical Lead](swe-tl/)
+* [Software Engineer, Full Stack](swe-full-stack/)
 * [QA Engineer](qa-engineer/)
 
